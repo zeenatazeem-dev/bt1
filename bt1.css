@@ -1,0 +1,69 @@
+*{padding: 0; margin: 0; box-sizing: border-box;}
+body{
+    
+    overflow-x: hidden;
+
+}
+
+
+
+h1{
+
+    font-family: "Alkatra", cursive;  
+}
+carousel-item img{
+    width: 100%;
+height: 30vh;
+
+}
+.cantainer{
+    width: 100%;
+height: 300px;
+background-color: black;
+color: gray;
+display: flex;
+justify-content: space-around;
+}
+.box1 {padding-left: 0px;
+padding-top: 10px;
+margin-left: 10px;
+}
+.box2 {padding-top: 10px;
+}
+.box3 {padding: 10px;
+
+
+} 
+.cantainer1{width: 100px;}
+
+.box1 h2{ padding-top: 10px;
+padding-top: 10px;
+margin-left: 10px;
+}
+.box3 h2{
+    padding-top: 10px;
+
+}
+.gg{font-size: 35px;
+text-align: center;
+border-radius: 10px;
+line-height: 30px;
+padding-left: 20px;
+padding-top: 20px;
+margin-bottom: 5px;
+background-color: black;
+color: bisque;
+}
+.gg:hover{ transform: all 2s;
+font-size: 40px;
+background-color: rgb(red, green, blue);
+color: beige;
+}
+.copy{
+    margin: auto;
+}
+
+
+
+
+
